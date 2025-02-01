@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:id="@+id/taskbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#9A7BBE"
+        android:padding="12dp"
+        android:gravity="center_vertical"
+        android:paddingBottom="20dp">
+
+        <!-- Logo -->
+        <ImageView
+            android:id="@+id/imgLogo"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <!-- Back Button -->
+        <TextView
+            android:id="@+id/btnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_back"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:paddingTop="10dp"
+            android:textStyle="bold"
+            android:contentDescription="@string/btn_back"
+            android:layout_alignParentRight="true" />
+
+        <!-- App Name -->
+        <TextView
+            android:id="@+id/tvAppName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/imgLogo"
+            android:text="@string/edit_notes_title"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:layout_marginStart="8dp" />
+    </RelativeLayout>
+
+    <!-- Edit Title -->
+    <EditText
+        android:id="@+id/editTextTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_edit_title"
+        android:inputType="text"
+        android:textSize="20sp"
+        android:textColor="@color/black" />
+
+    <!-- Edit Note Content -->
+    <EditText
+        android:id="@+id/editTextContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_edit_content"
+        android:inputType="textMultiLine"
+        android:lines="20"
+        android:gravity="top"
+        android:scrollbars="vertical"
+        android:overScrollMode="ifContentScrolls"
+        android:singleLine="false"
+        android:textColor="@color/black"
+        android:foregroundTint="@color/black" />
+
+    <!-- Save Changes Button -->
+    <Button
+        android:id="@+id/btnSaveChanges"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_save_changes"
+        android:layout_marginTop="16dp" />
+</LinearLayout>

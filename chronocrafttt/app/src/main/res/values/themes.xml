@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.Chronocrafttt" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <!-- Default theme for your app -->
+    <style name="Theme.Chronocrafttt" parent="Base.Theme.Chronocrafttt" />
+
+    <!-- Splash screen theme for API 31+ -->
+    <style name="SplashTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Fallback for all devices -->
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- Apply these attributes only for API 31+ -->
+        <item name="android:windowSplashScreenBackground" tools:targetApi="31">@color/white</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="31">@null</item>
+        <item name="android:windowSplashScreenIconBackgroundColor" tools:targetApi="31">@null</item>
+    </style>
+</resources>

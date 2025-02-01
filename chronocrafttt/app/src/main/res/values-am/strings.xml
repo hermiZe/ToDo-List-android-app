@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">ክሮኖክራፍት</string>
+        <string name="todo">የኔ የሥራ ዝርዝር</string>
+        <string name="note">የኔ ማስታወሻ</string>
+        <string name="notask">ለዛሬ ምንም ሥራ የለም</string>
+        <string name="addtodo">የሥራ ዝርዝር ያክሉ</string>
+        <string name="addnote">ነጽሮችን ያክሉ</string>
+
+        <string name="opt">አማራጭ ምናሌ</string>
+        <string name="motto">ሀሳቦን ያደራጁ ቀኖን ያሳምሩ</string>
+        <string name="title_change_password">የይለፍ ቃልን ቀይር</string>
+        <string name="hint_current_password">የአሁኑን የይለፍ ቃል ያስገቡ</string>
+        <string name="hint_new_password">አዲስ የይለፍ ቃል ያስገቡ</string>
+        <string name="hint_confirm_new_password">አዲስ የይለፍ ቃልን ያረጋግጡ</string>
+        <string name="btn_change_password">የይለፍ ቃልን ቀይር</string>
+        <string name="btn_back">ተመለስ</string>
+        <string name="edit_notes_title">ማስታወሻ አስተካክል</string>
+        <string name="hint_edit_title">ርዕስን አስተካክል</string>
+        <string name="hint_edit_content">የማስታወሻ ዝርዝር አስተካክል</string>
+        <string name="btn_save_changes">ለውጦችን አስቀምጥ</string>
+        <string name="title_login">ግባ</string>
+        <string name="hint_username">የተጠቃሚ ስም</string>
+        <string name="hint_password">የይለፍ ቃል</string>
+        <string name="checkbox_save_username">የተጠቃሚን ስም አስቀምጥ?</string>
+        <string name="btn_login">ግባ</string>
+        <string name="tv_sign_up_redirect">መለያ የለዎትም? ይመዝገቡ</string>
+        <string name="app_name_add_notes">ማስታወሻ ያክሉ</string>
+        <string name="hint_note_title">ርዕስ ያስገቡ</string>
+        <string name="hint_note_content">ማስታወሻ እዚህ ይፃፉ</string>
+        <string name="btn_save_note">አስቀምጥ</string>
+        <string name="btn_clear_note">አጥፋ</string>
+        <string name="hint_enter_password">የይለፍ ቃል ያስገቡ</string>
+        <string name="btn_submit">አስገባ</string>
+        <string name="forgot_password">የይለፍ ቃል ረስተዋል?</string>
+        <string name="reset_password_title">የይለፍ ቃልን ዳግም አቀናብር</string>
+        <string name="hint_confirm_password">አዲስ የይለፍ ቃልን ያረጋግጡ</string>
+        <string name="btn_reset_password">የይለፍ ቃልን ዳግም አቀናብር</string>
+        <string name="set_password_title">የይለፍ ቃል ያዝ</string>
+        <string name="btn_save_password">አስቀምጥ</string>
+        <string name="note_con">የማስታወሻ ዝርዝር</string>
+        <string name="success">የይለፍ ቃል በተሳካ ሁኔታ ተለዋዋጧል</string>
+        <string name="current_password_incorrect">አሁን ያለው ማስተካከያ ቁልፍ ትክክል አይደለም</string>
+        <string name="new_password_mismatch">አዲስ ቁልፎች ተመሳሳይ አይደሉም</string>
+        <string name="fill_in_all_fields">እባክህ ሁሉንም መስኮቶች አትሞሉ</string>
+        <string name="passwords_do_not_match">ፍለጋ ቁልፍ አይማሩም</string>
+        <string name="password_length_error">ፍለጋ ቁልፍ ከ6 ቁምፊ በላይ መሆን አለበት</string>
+        <string name="password_set_success">ቁልፍ በሚገባ ተመዝግቷል!</string>
+        <string name="no_tasks_available">ምንም ስራ አልተገኘም።</string>
+        <string name="no_notes_available">ምንም ማስታወሻ አልተገኘም።</string>
+        <string name="password_cleared">የይለፍ ቃል በተሳካ ሁኔታ ተነስቷል!</string>
+        <string name="set">ቁልፍ ያስተካክሉ</string>
+        <string name="chng">ቁልፍ ቀይር</string>
+        <string name="clear">ቁልፍ አጽዳ</string>
+        <string name="note_updated_successfully">ማስታወሻው በተሳካ ሁኔታ ተሻሽሏል።</string>
+        <string name="failed_to_update_note">ማስታወሻውን ማሻሻል አልተሳካም።</string>
+        <string name="fields_cannot_be_empty">መስኮቶች ባዶ ሊሆኑ አይችሉም።</string>
+        <string name="save_changes">ለውጦችን አስቀምጥ</string>
+        <string name="edit_note_title">ማስታወሻ ርዕስን አርትዕ</string>
+        <string name="edit_note_content">ማስታወሻ ይይዙን አርትዕ</string>
+        <string name="incorrect_password">የተከለከለ የይለፍ ቃል።</string>
+
+        <string name="enter_password">የይለፍ ቃልዎን ያስገቡ።</string>
+        <string name="submit">አስገባ</string>
+        <string name="new_password_hint">አዲሱን የይለፍ ቃል ያስገቡ</string>
+        <string name="confirm_password_hint">አዲሱን የይለፍ ቃል ያረጋግጡ</string>
+        <string name="reset_password_button">የይለፍ ቃልን ዳግም ያዘነብሉ</string>
+        <string name="password_reset_success">የይለፍ ቃል በትክክል ታደሰ</string>
+
+        <string name="select_date">ቀን ይምረጡ</string>
+        <string name="enter_task_hint">ተግባር ያስገቡ</string>
+        <string name="add_task_button">ተግባር ያክሉ</string>
+        <string name="select_date_message">እባኮትን ቀን ይምረጡ</string>
+        <string name="enter_task_message">እባኮትን ተግባር ያስገቡ</string>
+        <string name="tasks_for_date">ለምረጡት ቀን %1$s ተግባሮች</string>
+        <string name="all_tasks">ሁሉም ስራዎች</string>
+        <string name="title">ርዕስ</string>
+        <string name="note_content">የማስታወሻ ዝርዝር</string>
+        <string name="save">አስቀምጥ</string>
+
+        <string name="back">ተመለስ</string>
+        <string name="both_fields_required">ሁለቱም ቦታዎች ያስፈልጋሉ</string>
+        <string name="note_saved">ማስታወሻ በተሳካ ሁኔታ ተቀምጧል</string>
+        <string name="note_failed">ማስታወሻን ማስቀመጥ አልቻልኩም</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/action_set_password"
+        android:title="@string/set"
+        />
+    <item
+        android:id="@+id/action_change_password"
+        android:title="@string/chng" />
+    <item
+        android:id="@+id/action_clear_password"
+        android:title="@string/clear" />
+</menu>

@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Chronocraft</string>
+    <string name="todo">My Todo List</string>
+    <string name="note">My Notes</string>
+    <string name="notask">No tasks for today</string>
+    <string name="addtodo">Add Todo List</string>
+    <string name="addnote">Add Notes</string>
+
+    <string name="opt">Options menu</string>
+    <string name="motto">ORGANIZE YOUR THOUGHTS, EMPOWER YOUR DAY</string>
+    <string name="title_change_password">Change Password</string>
+    <string name="hint_current_password">Enter Current Password</string>
+    <string name="hint_new_password">Enter New Password</string>
+    <string name="hint_confirm_new_password">Confirm New Password</string>
+    <string name="btn_change_password">Change Password</string>
+    <string name="btn_back">Back</string>
+    <string name="edit_notes_title">Edit Notes</string>
+    <string name="hint_edit_title">Edit title</string>
+    <string name="hint_edit_content">Edit note content</string>
+    <string name="btn_save_changes">Save Changes</string>
+    <string name="title_login">Log In</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="checkbox_save_username">Save username?</string>
+    <string name="btn_login">Log In</string>
+    <string name="tv_sign_up_redirect">Don\'t have an account? Sign up</string>
+    <string name="app_name_add_notes">Add Notes</string>
+    <string name="hint_note_title">Enter Title</string>
+    <string name="hint_note_content">Write your note here</string>
+    <string name="btn_save_note">Save</string>
+    <string name="btn_clear_note">Clear</string>
+    <string name="hint_enter_password">Enter password</string>
+    <string name="btn_submit">Submit</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password_title">Reset Password</string>
+    <string name="hint_confirm_password">Confirm new password</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="set_password_title">set password</string>
+    <string name="btn_save_password">Save</string>
+    <string name="note_con">Note content</string>
+    <string name="success">Password changed successfully</string>
+    <string name="fill_in_all_fields">Please fill in all fields</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="password_length_error">Password must be at least 6 characters</string>
+    <string name="password_set_success">Password set successfully!</string>
+    <string name="set">Set password</string>
+    <string name="chng">Change password</string>
+    <string name="clear">Clear Password</string>
+    <string name="current_password_incorrect">Current password is incorrect</string>
+    <string name="new_password_mismatch">New passwords do not match</string>
+    <string name="no_tasks_available">No tasks available.</string>
+    <string name="no_notes_available">No notes available.</string>
+    <string name="password_cleared">Password cleared successfully!</string>
+    <string name="note_updated_successfully">Note updated successfully</string>
+    <string name="failed_to_update_note">Failed to update note</string>
+    <string name="fields_cannot_be_empty">Fields cannot be empty</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="edit_note_title">Edit Note Title</string>
+    <string name="edit_note_content">Edit Note Content</string>
+    <string name="incorrect_password">Incorrect password</string>
+
+    <string name="enter_password">Enter your password</string>
+    <string name="submit">Submit</string>
+    <string name="new_password_hint">Enter new password</string>
+    <string name="confirm_password_hint">Confirm new password</string>
+    <string name="reset_password_button">Reset Password</string>
+    <string name="password_reset_success">Password reset successfully</string>
+    <string name="select_date">Select a date</string>
+    <string name="enter_task_hint">Enter task</string>
+    <string name="add_task_button">Add Task</string>
+    <string name="select_date_message">Please select a date first</string>
+    <string name="enter_task_message">Please enter a task</string>
+    <string name="tasks_for_date">Tasks for %1$s</string>
+    <string name="all_tasks">All Tasks</string>
+
+        <string name="title">Title</string>
+        <string name="note_content">Note Content</string>
+        <string name="save">Save</string>
+
+        <string name="back">Back</string>
+        <string name="both_fields_required">Both fields are required</string>
+        <string name="note_saved">Note saved successfully</string>
+        <string name="note_failed">Failed to save note</string>
+
+
+</resources>
